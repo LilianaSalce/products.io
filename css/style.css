@@ -1,0 +1,45 @@
+body{
+  background-color:#0052cc;
+
+}
+h1{
+  font-family: Arial;
+  text-shadow:black;
+  color:white;
+}
+img{
+  width:160px;
+  height:160px;
+}
+iframe{
+  width:400px;
+  height:400px;
+  color:white
+}
+
+a.hover{
+  width:130px;
+  height:130px;
+}
+
+
+.gallery{
+  display:flex;
+  width:200px;
+  margin:auto;
+  justify-content: space-between;
+}
+figure img{
+  width: 175px;
+  height:180px;
+}
+figure figcaption{
+  text-align:center;
+  padding:8px 4px;
+  font-family:Impact;
+  color:white;
+}
+p{
+  font-family:impact;
+  font-size:60px;
+}
